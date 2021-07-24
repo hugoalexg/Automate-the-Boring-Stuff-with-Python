@@ -1,0 +1,2 @@
+2021-04-15 19:29:41,845 - DEBUG - a variavel "guess" esta com heads
+2021-04-15 19:29:41,846 - DEBUG - a variavel "toss" esta com tails
